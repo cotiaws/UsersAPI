@@ -1,0 +1,40 @@
+# Build
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.vs*
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+secrets.json
+
+# Packages
+packages/
+
+# Dependencies
+node_modules/
+
+# Visual Studio
+.vs/
+
+# Docker
+**/docker-compose.override.yml
+
+# Database
+*.mdf
+*.ldf
+
+# Publish output
+publish/
+out/
+
+# Resharper
+*.DotSettings.user
